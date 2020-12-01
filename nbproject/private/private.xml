@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/errorupdate.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/detail.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/trackorder.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/dtos/OrderDetail.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/catalog.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/filter/AuthorizedFilter.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/controllers/CheckoutController.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/controllers/AddToCartController.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/script/cartjs.js</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/dtos/MoonCake.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/style/navcss.css</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/controllers/LoginController.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/dtos/ProductOrder.java</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/index.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/viewcart.jsp</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/web/script/catalogjs.js</file>
+            <file>file:/D:/Lab%20Java%20Web/J3LP0011/src/java/khanghv/controllers/UpdateController.java</file>
+        </group>
+    </open-files>
+</project-private>
